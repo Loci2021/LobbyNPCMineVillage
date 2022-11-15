@@ -1,0 +1,8 @@
+name: LobbyNPCs
+version: '${project.version}'
+main: de.loci.lobbynpcs.Main
+authors: [ Loci2021 ]
+description: EIn Lobby NPC System für MineVillage.de coded by Loci2021
+commands:
+  setnpc:
+    permission: loci.setnpc
